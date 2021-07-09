@@ -48,17 +48,3 @@ describe('sayHiToGrandma(string)', function () {
     expect(sayHiToGrandma("I love you, Grandma.")).toEqual("I love you, too.");
   })
 })
-
-
-
-// function sayHiToGrandma(string) {
-//     if (`string.toUpperCase`) {
-//       console.log("YES INDEED!")
-//     }
-//   }
-
-// function sayHiToGrandma(string) {
-//     if ("I love you, Grandma.") {
-//       console.log("I love you, Grandma.")
-//     }
-//   }
